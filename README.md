@@ -1,5 +1,8 @@
+
 # Getting and Cleaning Data Course Project
-## Introduction
+
+##Author: Yelena Rozenfeld
+##Date: Spring 2015
 
 This repo contains the Cousera's course *"Getting and Cleaning Data"* project. The goal of this project was to prepare tidy data that can be used for later analysis. 
 
